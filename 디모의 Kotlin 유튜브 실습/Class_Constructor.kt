@@ -27,8 +27,6 @@ class PersonID (var name:String, val birthYear:Int) {
  constructor(name:String) : this(name, 1997) {
         println("보조 생성자가 사용되었습니다.")
     }
-
-
  */
 
 class PersonID (var name:String, val birthYear:Int) {
